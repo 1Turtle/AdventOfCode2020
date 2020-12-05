@@ -2,7 +2,7 @@
 
 [![AoC](https://img.shields.io/badge/Advent%20of%20Code-2020-8803ec?style=for-the-badge)](https://adventofcode.com/)
 [![Language](https://img.shields.io/badge/Powered%20by-C%2B%2B-ff69b4?style=for-the-badge)](https://de.wikipedia.org/wiki/C%2B%2B)
-[![Days completed](https://img.shields.io/badge/Survived%20Days-3-red?style=for-the-badge)](https://github.com/1Turtle/AdventOfCode2020/find/main)
+[![Days completed](https://img.shields.io/badge/Survived%20Days-4-red?style=for-the-badge)](https://github.com/1Turtle/AdventOfCode2020/find/main)
 [![License: MIT](https://img.shields.io/github/license/1Turtle/AdventOfCode2020?style=for-the-badge)](https://mit-license.org/)
 [![Twitter](https://img.shields.io/twitter/follow/EinBaumeister?style=for-the-badge)](https://twitter.com/Einbaumeister?ref_src=twsrc%5Etfw)
 
