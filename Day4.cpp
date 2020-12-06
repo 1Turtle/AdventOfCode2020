@@ -34,9 +34,9 @@ string getInput() {
     std::string str; 
 
     getline(file, str);
-    int n = str.find("day4:", 0);
+    int n = str.find("day04:", 0);
     if(n != (-1)) {
-        n = std::stoi(str.substr(n+5, 2), nullptr, 0);
+        n = std::stoi(str.substr(n+6, 2), nullptr, 0);
         
         for(int i=0; i<(n-1); i++) {
             getline(file, str);
